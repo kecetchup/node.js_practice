@@ -1,0 +1,23 @@
+{
+  "name": "databaseexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "errorhandler": "^1.5.1",
+    "express": "^4.18.2",
+    "express-error-handler": "^1.1.0",
+    "express-session": "^1.18.0",
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "serve-static": "^1.15.0"
+  }
+}
